@@ -1,0 +1,7 @@
+[2026-10-12T21:37:00Z] === AST ITERATION 1 START | repo=pinax/pinax sha=5a3b5578 ===
+[2026-10-12T21:37:00Z] [iter=1] PHASE START: ast repo=pinax/pinax sha=5a3b5578
+[2026-10-12T21:37:00Z] [iter=1] Building AST aggregate chunks
+[2026-10-12T21:37:00Z] [iter=1] AST chunks built count=1 triples=5059
+[2026-10-12T21:37:00Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/5a3b55788f802da5bf5728b1ca67b90593c91206/.complete
+[2026-10-12T21:37:00Z] [iter=1] PHASE END: ast elapsed_s=0 elapsed_min=0.0
+[2026-10-12T21:37:00Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json

@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pinax/pinax/commit/5a3b55788f802da5bf5728b1ca67b90593c91206",
       "git:hexsha": "5a3b55788f802da5bf5728b1ca67b90593c91206",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/pinax/pinax/commit/a47041f3093552e93e678fe2d45ea3779b27cf1e",
