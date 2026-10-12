@@ -1,0 +1,11 @@
+{
+  "org": "pinax",
+  "repo": "pinax",
+  "versions": [
+    {
+      "commit": "5a3b55788f802da5bf5728b1ca67b90593c91206",
+      "tag": "",
+      "parsed_at": "2026-10-12T21:38:13.103769+00:00"
+    }
+  ]
+}
